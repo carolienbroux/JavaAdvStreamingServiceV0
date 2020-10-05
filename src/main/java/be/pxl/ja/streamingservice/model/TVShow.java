@@ -19,6 +19,4 @@ public final class TVShow extends Content{
                 "numberOfSeasons=" + numberOfSeasons +
                 '}';
     }
-    
-
 }
